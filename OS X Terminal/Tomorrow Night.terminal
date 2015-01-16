@@ -210,10 +210,18 @@
 	dmVy0RcYVHJvb3SAAQgRGiMtMjc7QUhOW2KMjpCVoKmxtL3P0tcAAAAAAAABAQAAAAAA
 	AAAZAAAAAAAAAAAAAAAAAAAA2Q==
 	</data>
+	<key>Bell</key>
+	<false/>
+	<key>UseBoldFonts</key>
+	<false/>
+	<key>UseBrightBold</key>
+	<true/>
+	<key>VisualBell</key>
+	<false/>
 	<key>name</key>
 	<string>Tomorrow Night</string>
 	<key>shellExitAction</key>
-	<integer>2</integer>
+	<integer>0</integer>
 	<key>type</key>
 	<string>Window Settings</string>
 </dict>
